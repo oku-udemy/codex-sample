@@ -1,0 +1,2 @@
+[plugins."dev-workflow@project-local"]
+enabled = true

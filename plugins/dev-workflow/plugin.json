@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dev-workflow",
+  "version": "0.1.0",
+  "description": "Repository-local workflows for requirements, planning, implementation, review, documentation, and incident triage."
+}
